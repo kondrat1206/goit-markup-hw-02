@@ -1,0 +1,51 @@
+/* universal */
+/* 
+* {
+    color: teal;
+}
+ */
+
+/* tag */
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+/* index */
+/*
+ #index {
+    color: ted;
+}
+ */
+ /* class */
+ /*
+.class {
+    text-decoration: none;
+} 
+*/
+/* attribute */
+/*
+[href=href="mailto:info@devstudio.com"] {
+    color: ted;
+}
+*/
+/* selector potomok */
+/* 
+.menu .menu-li {
+    color: red;
+} 
+*/
+/* selector docherny */
+/* 
+.menu > .menu-li {
+    color: red;
+} 
+*/
+/* selector sosed */
+/* 
+.menu + .menu-li {
+    color: red;
+} 
+*/
