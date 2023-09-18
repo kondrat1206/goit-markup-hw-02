@@ -149,6 +149,11 @@ body {
 .footer {
     background-color: var(--text-color-secondary); 
 }
+
+.second-part-logo-footer {
+    color: #f4f4fd;
+}
+
 .footer-text {
     font-size: 16px;
     line-height: 1.5; /* 150% */
