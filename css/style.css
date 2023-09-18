@@ -68,7 +68,7 @@ body {
 
 /* ===HERO=== */
 .hero{
-    background-color: var(--background-color);
+    background-color: var(--text-color-secondary);
 }
 
 .hero-title {
@@ -78,8 +78,6 @@ body {
     letter-spacing: 1.12px;
     text-align: center;
     color: #FFF;
-    background-color: var(--text-color-secondary);
-    
 }
 
 .button {
