@@ -2,6 +2,7 @@
     --text-color-primary: #2E2F42;
     --text-color-secondary: #434455;
     --color-obj-active: #404BBF;
+    --background-color: #ffffff;
 }
 
 /* ===COMMON=== */
@@ -15,7 +16,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: var(--text-color-primary);
+    color: #434455;
+    background-color: var(--background-color);
 }
 
 /* ===LOGO=== */
