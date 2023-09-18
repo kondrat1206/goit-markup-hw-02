@@ -145,6 +145,24 @@ body {
     letter-spacing: 0.32px;
 }
 
+/* ===PORTFOLIO=== */
+.button-portfolio {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.64px;
+    color: #4D5AE5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-portfolio:hover,
+.button-portfolio:focus {
+    color: #ffffff;
+    background-color: var(--color-obj-active);
+}
+
 /* ===FOOTER=== */
 .footer {
     background-color: var(--text-color-secondary); 
