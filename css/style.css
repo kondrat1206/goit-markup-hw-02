@@ -125,6 +125,14 @@ body {
 }
 
 /* ===OUR TEAM=== */
+.team{
+    background-color: #F4F4FD;
+}
+
+.emploee-card {
+    background-color: var(--background-color); 
+}
+
 .emploee-name {
     font-size: 20px;
     font-weight: 500;
